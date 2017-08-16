@@ -1,0 +1,2 @@
+# ShortageImpact
+Macro for procurement
